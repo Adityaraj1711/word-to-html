@@ -40,4 +40,6 @@ It will start searching all the .docx files recursively and inplace stores the c
  This file takes an argument which is the location of html file converted by Microsoft office and then searches for \_\_\_FILES___ folder where the html file of libreoffice present. The file will merge the mathml tags into the html(of MSoffice) and then remove the redundant images of equations and checks if the \_\_\_FILES\_\_\_ folder is empty or not, if empty, the folder is then deleted.
  The logs of the conversion will be stored in a conversion.log file in the parent directory
  Any errors or exception will pe prefixed by '****************'.
- 
+
+
+Happy converting!!
