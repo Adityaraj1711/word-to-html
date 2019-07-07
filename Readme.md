@@ -45,4 +45,4 @@ It will start searching all the .docx files recursively and inplace stores the c
 Happy converting!!
 
 
-Project completed in QLS Academy Pvt. Ltd. in internship period.
+Project completed under QLS Academy Pvt. Ltd. in internship period.
